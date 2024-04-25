@@ -123,6 +123,7 @@ const html = `
                     <a
                         class="btn btn-primary btn-block"
                         href="https://venomscan.com/accounts/0:d7f3e31982a8000b7d3d613a9e9c3fab79f675b79c3db3825595091ee70b3ffd"
+                        target="_blank"
                         >View on VenomScan</a
                     >
                 </div>
@@ -166,6 +167,7 @@ const html = `
                             <a
                                 class="btn btn-primary btn-block"
                                 href="https://venomscan.com/accounts/0:d7f3e31982a8000b7d3d613a9e9c3fab79f675b79c3db3825595091ee70b3ffd"
+                                target="_blank"
                                 >View on VenomScan</a
                             >
                         </div>
@@ -530,6 +532,7 @@ const html = `
                                 <a
                                     class="link link-hover link-primary"
                                     href="https://github.com/Permutize/mau-token"
+                                    target="_blank"
                                     >Read Source Code</a
                                 >
                             </div>
@@ -572,6 +575,7 @@ const html = `
                                 <a
                                     class="link link-hover link-primary"
                                     href="https://github.com/Permutize/venom-backend"
+                                    target="_blank"
                                     >Read Source Code</a
                                 >
                             </div>
@@ -613,6 +617,7 @@ const html = `
                                 <a
                                     class="link link-hover link-primary"
                                     href="https://github.com/Permutize/haha-venom-mobile"
+                                    target="_blank"
                                     >Read Source Code</a
                                 >
                             </div>
@@ -637,6 +642,7 @@ const html = `
                         <a
                             class="btn"
                             href="https://venomscan.com/accounts/0:d7f3e31982a8000b7d3d613a9e9c3fab79f675b79c3db3825595091ee70b3ffd"
+                            target="_blank"
                             >View on VenomScan</a
                         >
                     </div>
