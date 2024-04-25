@@ -1,7 +1,15 @@
 import Image from "next/image";
+import Head from "next/head";
 
 export default function Home() {
-  return <div dangerouslySetInnerHTML={{ __html: html }}></div>;
+  return (
+    <div>
+      <Head>
+        <link rel="shortcut icon" href="/favicon.ico" />
+      </Head>
+      <div dangerouslySetInnerHTML={{ __html: html }}></div>
+    </div>
+  );
 }
 
 const html = `
